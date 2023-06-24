@@ -11,22 +11,22 @@ url_login = 'https://epc.ustc.edu.cn/n_left.asp'
 
 # httpRequsetAttr = {
 # 'submit_type': 'user_login',
-# 'name': 'SA21168173',
-# 'pass': 'EQSSRQ',
+# 'name': '',
+# 'pass': '',
 # 'user_type': '2',
 # 'Submit': 'LOG IN'}
 
 # httpRequsetAttr = {
 # 'submit_type': 'user_login',
-# 'name': 'SA21025036',
-# 'pass': '4316998',
+# 'name': '',
+# 'pass': '',
 # 'user_type': '2',
 # 'Submit': 'LOG IN'}
 
 httpRequsetAttr = {
 'submit_type': 'user_login',
-'name': 'SA21168089',
-'pass': 'QIGBSL',
+'name': '',
+'pass': '',
 'user_type': '2',
 'Submit': 'LOG IN'}
 

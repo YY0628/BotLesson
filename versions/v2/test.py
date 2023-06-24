@@ -12,8 +12,8 @@ cancelAttr = {
 
 httpRequsetAttr = {
 'submit_type': 'user_login',
-'name': 'SA21168173',
-'pass': 'EQSSRQ',
+'name': '',
+'pass': '',
 'user_type': '2',
 'Submit': 'LOG IN'}
 
